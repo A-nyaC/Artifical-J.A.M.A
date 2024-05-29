@@ -1,6 +1,7 @@
-# [Your Project's Name]
+# [Artifical J.A.M.A]
 
 <details>
+<Collaboraters>
 <summary>Table of Contents</summary>
   
 1. [Summary](#summary)
