@@ -19,7 +19,6 @@ This project is a website that improves the experience of job hiring for job rec
 ## Features
 - **AI Feedback on Job Application**: Some applicants may feel blindsided as to why their application does not make it to the next round and providing feedback on many applications is time-consuming. This project aims to use AI to provide feedback such as File Parse failure, Missing font, Missing 2 qualifications and etc..
 - **Data Storage**: Most data is stored in a MySQL database.
-- **Feature 3**:
 -  - ... and so on.
 
 ## Visuals
